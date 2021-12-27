@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YoamCV/static/css/main.55612cd8.css",
+    "main.js": "/YoamCV/static/js/main.6c6ecd27.js",
+    "index.html": "/YoamCV/index.html",
+    "main.55612cd8.css.map": "/YoamCV/static/css/main.55612cd8.css.map",
+    "main.6c6ecd27.js.map": "/YoamCV/static/js/main.6c6ecd27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55612cd8.css",
+    "static/js/main.6c6ecd27.js"
+  ]
+}
