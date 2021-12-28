@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/YoamCV/static/css/main.55612cd8.css",
+    "main.css": "/YoamCV/static/css/main.5759f1ce.css",
     "main.js": "/YoamCV/static/js/main.871a9f61.js",
     "index.html": "/YoamCV/index.html",
-    "main.55612cd8.css.map": "/YoamCV/static/css/main.55612cd8.css.map",
+    "main.5759f1ce.css.map": "/YoamCV/static/css/main.5759f1ce.css.map",
     "main.871a9f61.js.map": "/YoamCV/static/js/main.871a9f61.js.map"
   },
   "entrypoints": [
-    "static/css/main.55612cd8.css",
+    "static/css/main.5759f1ce.css",
     "static/js/main.871a9f61.js"
   ]
 }
